@@ -194,7 +194,7 @@ body {
 }
 
 .imageNav-photo {
-  width: 350px;
+  /* width: 350px; */
 
   /* Box-model */
   max-height:200px;
@@ -216,7 +216,6 @@ body {
 
   /* Typography */
   text-align: center;
-  max-height: 400px;
   
 }
 
