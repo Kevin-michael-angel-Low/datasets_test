@@ -146,10 +146,9 @@ body {
   float: left;
 
   /* Box-model */
-  width: 300px;
   margin-top: 20px;
   margin-right: 20px;
-  max-height:200px;
+  max-height:150px;
 }
 
 /* Description content media query */
