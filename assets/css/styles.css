@@ -146,10 +146,10 @@ body {
   float: left;
 
   /* Box-model */
-  width: 200px;
-  height: 200px;
+  width: 300px;
   margin-top: 20px;
   margin-right: 20px;
+  max-height:200px;
 }
 
 /* Description content media query */
@@ -190,13 +190,14 @@ body {
   font-size: 25px;
   font-weight: bold;
   color: #4aaaa5;
+
 }
 
 .imageNav-photo {
-  width: 140px;
+  width: 350px;
 
   /* Box-model */
-  height: 140px;
+  max-height:200px;
 }
 
 .imageNav-photo:hover {
@@ -215,7 +216,9 @@ body {
 
   /* Typography */
   text-align: center;
+
 }
+
 
 /* ----IMAGE NAV END---- */
 
