@@ -198,6 +198,9 @@ body {
 
   /* Box-model */
   max-height:200px;
+  max-width: 400px;
+  width:auto;
+  height:auto;
 }
 
 .imageNav-photo:hover {
